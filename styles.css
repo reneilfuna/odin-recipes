@@ -26,3 +26,10 @@ ul {
     font-size: 22px;
     line-height: 1;
 }
+
+.recipes {
+  width: 400px;
+  background: #D9ABAB;
+  margin: 16px auto;
+  padding: 8px;
+}
