@@ -25,6 +25,12 @@ ul {
     line-height: 1;
 }
 
+img {
+    border: 10px solid #D9ABAB;
+    display: block;
+    margin: 20px auto;
+}
+
 .recipes {
   width: 800px;
   background-color: #D9ABAB;
