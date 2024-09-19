@@ -16,8 +16,6 @@ h1 {
     font-weight: 800;
 }
 
-
-
 body {
     background-color: #F4D9D0;
 }
@@ -28,8 +26,19 @@ ul {
 }
 
 .recipes {
-  width: 400px;
-  background: #D9ABAB;
-  margin: 16px auto;
+  width: 800px;
+  background-color: #D9ABAB;
+  margin: 200px auto;
   padding: 8px;
+}
+
+.recipe {
+    background-color: ivory;
+    width: 700px;
+    height: 38px;
+    margin: 12px auto;
+    border: 10px solid;
+    padding: 10px;
+    border-color: #921A40;
+    font-size: 30px;
 }
